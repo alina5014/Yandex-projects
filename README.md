@@ -2,7 +2,8 @@
 | Project | Field |  Tools |  Description | 
 | --- |  --- | --- | --- | 
 | Project 1. Research of reliability of borrowers | Banking|  Python , Pandas |  |
-| Project 2. Analysis of ads of apartments for sale ads |  --- | pandas, numpy, matplotlib | --- | --- | 
+| Project 2. Analysis of ads of apartments for sale ads |  Online Services /n
+Ad platforms | pandas, numpy, matplotlib | --- | --- | 
 | Project 3. Prospective tariff for a telecom company |  --- | pandas, numpy, math, scipy | --- | --- |  
 | Project 4. The research of the potentially popular product |  --- | pandas, numpy, scipy, seaborn, math | --- | --- | 
 | Project 5. Tariff recomendation |  --- | pandas, sklearn | --- | --- | 
