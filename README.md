@@ -1,6 +1,6 @@
 # Yandex.Practicum Projects
 | Project | Field |  Tools |  Description | 
-| --- |  : --- : | : --- : | --- | 
+| --- |: --- :|: --- :| --- | 
 |  [Project 1. Research of reliability of borrowers](https://github.com/alina5014/Yandex-projects/tree/main/Project%201.%20Research%20of%20reliability%20of%20borrowers)| Banking|  Python , Pandas |  |
 |  [Project 2. Analysis of ads of apartments for sale ads](https://github.com/alina5014/Yandex-projects/tree/main/Project%202.%20Analysis%20of%20ads%20of%20apartments%20for%20sale%20ads) |  Online Services Ad platforms | pandas, numpy, matplotlib | --- | --- | 
 |  [Project 3. Prospective tariff for a telecom company](https://github.com/alina5014/Yandex-projects/tree/main/Project%203.%20Prospective%20tariff%20for%20a%20telecom%20company) |  --- | pandas, numpy, math, scipy | --- | --- |  
