@@ -2,7 +2,7 @@
 | Project | Field |  Tools |  Description | 
 | --- |--- | --- | --- | 
 |  [Project 1. Research of reliability of borrowers](https://github.com/alina5014/Yandex-projects/tree/main/Project%201.%20Research%20of%20reliability%20of%20borrowers)| Banking|  Python , Pandas |  |
-|  [Project 2. Analysis of ads of apartments for sale ads](https://github.com/alina5014/Yandex-projects/tree/main/Project%202.%20Analysis%20of%20ads%20of%20apartments%20for%20sale%20ads) |  Online Services Ad platforms | pandas, numpy, matplotlib | --- | --- | 
+|  [Project 2. Analysis of ads of apartments for sale ads](https://github.com/alina5014/Yandex-projects/tree/main/Project%202.%20Analysis%20of%20ads%20of%20apartments%20for%20sale%20ads) |  Ad platforms | pandas, numpy, matplotlib | --- | --- | 
 |  [Project 3. Prospective tariff for a telecom company](https://github.com/alina5014/Yandex-projects/tree/main/Project%203.%20Prospective%20tariff%20for%20a%20telecom%20company) |  Telecom | pandas, numpy, math, scipy | --- | --- |  
 |  [Project 4. The research of the potentially popular product](https://github.com/alina5014/Yandex-projects/tree/main/Project%204.%20The%20research%20of%20the%20potentially%20popular%20product) |  Target advertising | pandas, numpy, scipy, seaborn, math | --- | --- | 
 |  [Project 5. Tariff recomendation](https://github.com/alina5014/Yandex-projects/tree/main/Project%205.%20Tariff%20recomendation)|  --- | pandas, sklearn | --- | --- | 
