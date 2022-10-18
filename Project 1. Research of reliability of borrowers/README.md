@@ -14,9 +14,9 @@ On the basis of statistics on the solvency of clients, the affect of various fac
 
 - Data overview 
 - Data preprocessing 
-  -- handling missing data
-  -- working with data types
-  -- categorizing data
+  - Handling missing data
+  - Working with data types
+  - Categorizing data
 
 **Tools**
 
