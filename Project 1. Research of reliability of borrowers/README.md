@@ -1,4 +1,4 @@
-#Research of reliability of borrowers
+# Research of reliability of borrowers
 
 **Project Goals**
 
