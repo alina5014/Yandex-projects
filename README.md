@@ -9,4 +9,4 @@
 |  [Project 6. Customer churn](https://github.com/alina5014/Yandex-projects/tree/main/Project%206.%20Customer%20churn)|  Customer retention | pandas, numpy, sklearn | Bank customer churn forecast based on data given| 
 |  [Project 7.  Choosing a location for an oil well](https://github.com/alina5014/Yandex-projects/tree/main/Project%207.%20Choosing%20a%20location%20for%20an%20oil%20well) |  Industry | pandas, numpy, sklearn | In three oil-producing regions (10,000 wells each), oil samples were taken, the quality of raw materials and the volume of its reserves were measured. It is necessary to build a machine learning model that will help determine the region where mining will bring the greatest profit |  
 |  [Project 8. Recovering Gold from Ore](https://github.com/alina5014/Yandex-projects/tree/main/Project%208.%20Recovering%20Gold%20from%20Ore) |  Industry | pandas, numpy, seaborn, matplotlib, scipy, sklearn | Prediction of the gold recovery ratio from gold ore. Data available with mining and refining parameters |
-| Project 9. |  --- | --- | --- | --- | 
+
