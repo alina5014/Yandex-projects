@@ -18,4 +18,5 @@ It is necessary to identify patterns that determine the success of the game base
 - Statistical data analysis. Hypothesis testing.
 
 **Tools** 
+
 Pandas, Numpy, Scipy, Matplotlib, Seaborn 
