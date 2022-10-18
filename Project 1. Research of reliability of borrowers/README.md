@@ -4,7 +4,7 @@
 
 On the basis of statistics on the solvency of clients, the affect of various factors affect on the fact of repaying the loan on time must be investigated. 
 
-**Project objectives**
+**Project Objectives**
 
 -  analyze data on the statistics of customer solvency
 -  identify and group purposes of getting a loan
