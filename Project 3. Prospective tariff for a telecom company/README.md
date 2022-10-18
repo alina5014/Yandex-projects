@@ -18,4 +18,5 @@ Based on data of a federal mobile operator, the behavior of customers must be an
 - Statistical data analysis. Hypothesis testing.
 
 **Tools** 
+
 Pandas, Numpy, Scipy, Matplotlib, Seaborn 
