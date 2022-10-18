@@ -2,20 +2,19 @@
 
 **Project Goals**
 
-- determine the market value of real estate
-- set parameters for building an automated system for tracking anomalies and fraudulent activity.
+The market value of real estate must be determined and it is necessary to set parameters for building an automated system for tracking anomalies and fraudulent activity.
 
 **Project objectives**
 
-- data preprocessing (omissions, duplicates, outliers)
-- analyze anomalous data
-- analyze factors affecting the cost of apartments
+- Preprocess data (omissions, duplicates, outliers)
+- Analyze anomalous data
+- Identify factors affecting the cost of apartments
 
 **Stages** 
 
-Review data.
-Data preprocessing.
-Exploratory data analysis.
+- Review data.
+- Data preprocessing.
+- Exploratory data analysis.
 
 **Tools**
 
