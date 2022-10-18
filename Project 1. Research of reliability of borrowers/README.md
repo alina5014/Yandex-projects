@@ -6,15 +6,17 @@ On the basis of statistics on the solvency of clients, the affect of various fac
 
 **Project Objectives**
 
--  analyze data on the statistics of customer solvency
--  identify and group purposes of getting a loan
--  analyze the causes of customer debts on loans
+-  Analyze data on the statistics of customer solvency
+-  Identify and group purposes of getting a loan
+-  Analyze the causes of customer debts on loans
 
-**Gained practical skills in data preprocessing**
+**Stages**
 
-- handle missing data
-- work with data types
-- categorize data
+- Data overview 
+- Data preprocessing 
+  -- handling missing data
+  -- working with data types
+  -- categorizing data
 
 **Tools**
 
