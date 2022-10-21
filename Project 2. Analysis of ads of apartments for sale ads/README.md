@@ -1,4 +1,4 @@
-# Analysis of ads of apartments for sale ads
+# Analysis of ads of apartments for sale
 
 **Project Goals**
 
